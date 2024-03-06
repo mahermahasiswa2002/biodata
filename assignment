@@ -1,0 +1,6 @@
+name = "MAHER AHMAD"
+class_name = "TI23I"
+major = "Informatics Engineering"
+quote = "SEMANGAT, YA"
+biodata = (f"Biodata\n\nName: {name} \nClass-name: {class_name} \nMajor: {major} \nQuote: {quote}")
+print(biodata)
